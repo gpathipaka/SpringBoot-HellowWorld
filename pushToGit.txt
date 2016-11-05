@@ -7,3 +7,5 @@ Remote name will appear as origin, select 'Configure Push' Option and click ok
 In the next dialog, click on change next to URI textbox and give your git url, username, password and click on 'Save and Push'. This configures git Push.
 For configuring Fetch, go to Git Repositories -> Remote -> Configure Fetch -> Add -> Master Branch -> Next -> Finish -> Save and Fetch
 For configuring Master Branch, Branch -> Local -> Master Branch -> Right click and configure branch -> Remote: origin and Upstream Branch : refs/heads/master -> click ok
+
+dd
